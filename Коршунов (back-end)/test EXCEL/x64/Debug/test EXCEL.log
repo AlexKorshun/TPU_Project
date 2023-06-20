@@ -1,0 +1,3 @@
+﻿  test EXCEL.cpp
+C:\LAB\2wer\test EXCEL\test EXCEL.cpp(104): warning C4715: checker: значение возвращается не при всех путях выполнения
+  test EXCEL.vcxproj -> C:\LAB\2wer\test EXCEL\x64\Debug\test EXCEL.exe
